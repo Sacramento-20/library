@@ -7,4 +7,4 @@ Neste exercício, iremos refatorar um sistema simples para aluguel de livros de 
 - [Parte 1](parte1.md)
 - [Parte 2](parte2.md)
 
-- Commit 1: Running the tests.
+- Commit 1: Running the tests
